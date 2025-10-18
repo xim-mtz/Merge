@@ -2,7 +2,7 @@
 # Merge
 
 Hola, soy Ximena.
-Estudio Ciencias de la Computación.
+Voy en quinto semestre.
 Mensaje agregado desde mi Main.
 Mensaje agreado desde mi rama Mejora
 
