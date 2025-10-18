@@ -1,5 +1,7 @@
 
 # Merge
 
-Hola, soy Ximena
-Estutio Ciencias de la Computación
+Hola, soy Ximena.
+Estudio Ciencias de la Computación.
+Mensaje agregado desde mi Main
+
