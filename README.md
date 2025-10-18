@@ -2,7 +2,7 @@
 # Merge
 
 Hola, soy Ximena.
-Estudio Ciencias de la Computación.
+Tengo 22 años.
 Mensaje agregado desde mi Main.
-Mensaje agreado desde mi rama Mejora
+Mensaje agreado desde mi rama Mejora.
 
